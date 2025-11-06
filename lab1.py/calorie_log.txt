@@ -1,0 +1,8 @@
+Daily Calorie Tracker
+----------------
+eggs: 36.0
+rice: 234.0
+
+Total: 270.0
+Average: 135.0
+Status: You are within your daily limit!
