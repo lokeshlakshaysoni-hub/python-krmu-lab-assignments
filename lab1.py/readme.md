@@ -8,8 +8,6 @@ Features:
 - Compares intake against a user-defined daily calorie limit
 - Displays a clean summary table
 - Optionally saves the log to a file (calorie_log.txt)
-- 
-
 
 - This is a beginner-friendly script ideal for learning basic Python concepts like lists, loops, conditionals.
 
