@@ -1,3 +1,12 @@
+# -----------------------------------------------------------
+# Project Title : Daily Calorie Tracker CLI
+# Course        : Programming for Problem Solving using Python
+# Student Name  : Lokesh verma
+# Roll No.      : 2501730182
+# College       : K.R. Mangalam University
+# Date          : 11 Nov 2025
+# -----------------------------------------------------------
+ 
 print("Welcome to Daily Calorie Tracker!")
 print("This program lets you note down your meals and total calories.\n")
 
@@ -44,4 +53,5 @@ if save == "yes":
     f.write("Average: " + str(round(avg, 2)) + "\n")
     f.write("Status: " + msg + "\n")
     f.close()
+
     print("Saved in calorie_log.txt")
