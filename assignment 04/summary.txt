@@ -1,0 +1,9 @@
+Weather Data Summary Report
+===========================
+
+Total Days Recorded: 7
+Average Temperature: 20.56 °C
+Highest Temperature: 23.10 °C
+Lowest Temperature: 17.50 °C
+Total Rainfall: 39.50 mm
+Peak Rainfall Day: 2025-12-06
